@@ -3,8 +3,8 @@
 A high-performance JavaFX application that brings Dijkstra’s shortest path algorithm to life.  
 Generate large, complex graphs in seconds and watch the algorithm work step-by-step, with clear visual cues for node settlement, edge relaxation, and optimal path discovery.
 
-![Dijkstra Visualizer Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNwazJ5NG9keHk2ZzNmd25ya2J0N2dua3VrYzZjbDBqMWNyeDVrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69KYJVUnVVsQNauwBQ/giphy.gif)
-<
+<img width="1198" height="916" alt="Знімок екрана 2025-08-11 о 00 42 12" src="https://github.com/user-attachments/assets/7260715b-d509-47eb-ad75-78d7a6e97d01" />
+
 ## Features
 - **Dynamic Graph Generation** – Configure node count and edge probability to create diverse graphs instantly.
 - **Step-by-Step Execution** – Adjustable animation speed for both quick results and in-depth learning.
